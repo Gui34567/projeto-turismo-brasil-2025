@@ -1,0 +1,195 @@
+nome_pais_correto,Continente
+Afeganistão,Ásia
+África do Sul,África
+Albânia,Europa
+Alemanha,Europa
+Andorra,Europa
+Angola,África
+Antígua e Barbuda,América do Norte
+Arábia Saudita,Ásia
+Argélia,África
+Argentina,América do Sul
+Armênia,Ásia
+Austrália,Oceania
+Áustria,Europa
+Azerbaijão,Ásia
+Bahamas,América do Norte
+Bangladexe,Ásia
+Barbados,América do Norte
+Barein,Ásia
+Bélgica,Europa
+Belize,América do Norte
+Benin,África
+Bolívia,América do Sul
+Brasil,América do Sul
+Brunei,Ásia
+Bulgária,Europa
+Cabo Verde,África
+Camarões,África
+Canadá,América do Norte
+Chile,América do Sul
+China,Ásia
+Colômbia,América do Sul
+Coreia do Sul,Ásia
+Costa Rica,América do Norte
+Croácia,Europa
+Cuba,América do Norte
+Dinamarca,Europa
+Egito,África
+Equador,América do Sul
+Eslováquia,Europa
+Espanha,Europa
+Estados Unidos,América do Norte
+Estônia,Europa
+Etiópia,África
+Filipinas,Ásia
+Finlândia,Europa
+França,Europa
+Gana,África
+Grécia,Europa
+Guatemala,América do Norte
+Guiana,América do Sul
+Haiti,América do Norte
+Holanda,Europa
+Honduras,América do Norte
+Hungria,Europa
+Índia,Ásia
+Indonésia,Ásia
+Irã,Ásia
+Iraque,Ásia
+Irlanda,Europa
+Islândia,Europa
+Israel,Ásia
+Itália,Europa
+Jamaica,América do Norte
+Japão,Ásia
+Jordânia,Ásia
+Líbano,Ásia
+Líbia,África
+México,América do Norte
+Moçambique,África
+Nigéria,África
+Noruega,Europa
+Nova Zelândia,Oceania
+Países Baixos,Europa
+Panamá,América do Norte
+Paraguai,América do Sul
+Peru,América do Sul
+Polônia,Europa
+Portugal,Europa
+Quênia,África
+Reino Unido,Europa
+República Dominicana,América do Norte
+República Tcheca,Europa
+Romênia,Europa
+Rússia,Europa
+Senegal,África
+Suécia,Europa
+Suíça,Europa
+Suriname,América do Sul
+Tailândia,Ásia
+Trindade e Tobago,América do Norte
+Turquia,Ásia
+Ucrânia,Europa
+Uruguai,América do Sul
+Venezuela,América do Sul
+Vietname,Ásia
+Botsuana,África
+Burkina Faso,África
+Burundi,África
+Chade,África
+Comores,África
+Congo,África
+Congo (República Democrática do),África
+Costa do Marfim,África
+Djibuti,África
+Eritreia,África
+Essuatíni,África
+Gabão,África
+Gâmbia,África
+Guiné,África
+Guiné-Bissau,África
+Guiné Equatorial,África
+Lesoto,África
+Libéria,África
+Madagáscar,África
+Malaui,África
+Mali,África
+Marrocos,África
+Maurícia,África
+Namíbia,África
+Níger,África
+Ruanda,África
+São Tomé e Príncipe,África
+Seicheles,África
+Serra Leoa,África
+Somália,África
+Sudão,África
+Sudão do Sul,África
+Tanzânia,África
+Togo,África
+Tunísia,África
+Uganda,África
+Zâmbia,África
+Zimbábue,África
+Dominica,América do Norte
+El Salvador,América do Norte
+Granada,América do Norte
+Nicarágua,América do Norte
+Santa Lúcia,América do Norte
+São Cristóvão e Neves,América do Norte
+São Vicente e Granadinas,América do Norte
+Butão,Ásia
+Camboja,Ásia
+Catar,Ásia
+Cazaquistão,Ásia
+Chipre,Ásia
+Coreia do Norte,Ásia
+Emirados Árabes Unidos,Ásia
+Geórgia,Ásia
+Iêmen,Ásia
+Kuwait,Ásia
+Quirguistão,Ásia
+Laos,Ásia
+Malásia,Ásia
+Maldivas,Ásia
+Mongólia,Ásia
+Mianmar,Ásia
+Nepal,Ásia
+Omã,Ásia
+Paquistão,Ásia
+Singapura,Ásia
+Síria,Ásia
+Sri Lanka,Ásia
+Tajiquistão,Ásia
+Timor-Leste,Ásia
+Turcomenistão,Ásia
+Uzbequistão,Ásia
+Bielorrússia,Europa
+Bósnia e Herzegovina,Europa
+Eslovênia,Europa
+Kosovo,Europa
+Letônia,Europa
+Liechtenstein,Europa
+Lituânia,Europa
+Luxemburgo,Europa
+Macedônia do Norte,Europa
+Malta,Europa
+Moldávia,Europa
+Mônaco,Europa
+Montenegro,Europa
+San Marino,Europa
+Sérvia,Europa
+Vaticano,Europa
+Fiji,Oceania
+Ilhas Marshall,Oceania
+Ilhas Salomão,Oceania
+Kiribati,Oceania
+Micronésia,Oceania
+Nauru,Oceania
+Palau,Oceania
+Papua Nova Guiné,Oceania
+Samoa,Oceania
+Tonga,Oceania
+Tuvalu,Oceania
+Vanuatu,Oceania
